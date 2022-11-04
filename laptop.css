@@ -1,0 +1,20 @@
+body{
+    flex-direction: row;
+}
+
+.main{
+    margin: 5%;
+}
+
+.lightpurple{
+    height: 50%;
+    width: 40%;
+}
+   
+.purple{
+    width: 50%;
+}
+
+.container{
+    height: 100vh;
+}
